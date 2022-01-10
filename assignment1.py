@@ -28,3 +28,9 @@
 # radius = float(input("input the radius of the circle"))  
 # print("the area of circle with radius " + str(radius)+ " is  = " + str(pi * radius**2))           
 
+               #Q5 write a python program which accepts  the user first name and last name and print them in reverse oder with a space between them 
+
+name1 = input("Input your First Name : ")
+name2 = input("Input your Last Name : ")
+print ("too good  " + name2 + " " + name1)
+              
