@@ -30,7 +30,11 @@
 
                #Q5 write a python program which accepts  the user first name and last name and print them in reverse oder with a space between them 
 
-name1 = input("Input your First Name : ")
-name2 = input("Input your Last Name : ")
-print ("too good  " + name2 + " " + name1)
-              
+# name1 = input("Input your First Name : ")
+# name2 = input("Input your Last Name : ")
+# print ("too good  " + name2 + " " + name1)
+                #Q6 write a python program WHICH takes two input from user and print them addition
+
+# n1 = int(input("add first number "))  
+# n2= int(input("add second number "))  
+# print ("total ", n2 +  n1) 
