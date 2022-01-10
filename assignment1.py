@@ -23,4 +23,8 @@
 # timedate =datetime.datetime.now()
 # print("time and date : ")
 # print(timedate.strftime("%Y-%m-%d %h:%M:%S"))
+                #Q4 write a python program which accepts the radius of a circle from the user and compute the area
+# from math import pi 
+# radius = float(input("input the radius of the circle"))  
+# print("the area of circle with radius " + str(radius)+ " is  = " + str(pi * radius**2))           
 
